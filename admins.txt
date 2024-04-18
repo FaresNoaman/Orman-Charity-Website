@@ -1,0 +1,2 @@
+{"Role":"customers","Email":"Aymanezzat@gmail.com","Password":"YXltYW5Fc2xzY2ExMjM="}
+{"Role":"donations","Email":"raghdaesam@gmail.com","Password":"cmFnaGRhRXNsc2Nh"}
